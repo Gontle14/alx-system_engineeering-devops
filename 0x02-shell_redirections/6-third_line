@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 /etc/passwd | tail -n 1
+head -3 /0x02-shell_redirections/iacta | tail -n 1
